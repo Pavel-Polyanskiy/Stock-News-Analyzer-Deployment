@@ -6,7 +6,6 @@ nltk==3.5
 yahoo_fin
 datetime
 bs4
-time
 operator
 functools
 scikit-learn
