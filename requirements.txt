@@ -2,8 +2,8 @@ gunicorn
 numpy
 pandas
 gensim
-nltk
-re
+nltk==3.5
+re==2.2.1
 seaborn
 matplotlib
 yahoo_fin
