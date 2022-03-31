@@ -5,4 +5,4 @@ gensim
 nltk==3.5
 yahoo_fin
 datetime
-flask
+Flask
