@@ -3,7 +3,7 @@ numpy
 pandas
 gensim
 nltk==3.5
-re
+re==2.2
 seaborn
 matplotlib
 yahoo_fin
